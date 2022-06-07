@@ -1,2 +1,2 @@
-# Constant-Matury-Swaps-CMS-Notes
+# Constant-Maturity-Swaps-CMS-Notes
 Notes on Constant Maturity Swaps
